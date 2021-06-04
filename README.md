@@ -1,2 +1,1 @@
-# Javascript_Using_HapiFramework
-Learn Javascript Using HapiFramework
+# Learn_Node.js_Dicoding
